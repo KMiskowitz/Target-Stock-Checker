@@ -1,4 +1,4 @@
-# risible.github.io
+# Target Stock Checker
 
 Checks in store levels for stock.
 
